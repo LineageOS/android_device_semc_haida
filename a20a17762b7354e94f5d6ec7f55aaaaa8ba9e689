@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//+ko\u003d",
+        "filename": "haida.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 605
+      },
+      "writtenOn": "2013-03-08T12:06:45Z",
+      "side": 0,
+      "message": "dont move it !\nyou have 1 cdma phone",
+      "revId": "a20a17762b7354e94f5d6ec7f55aaaaa8ba9e689",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
